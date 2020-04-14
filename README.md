@@ -1,2 +1,6 @@
 # Programar_em_Go
- Inciação ao GO
+
+
+ Iniciação ao GO
+ 
+ Vídeo-aulas:https://www.youtube.com/channel/UC0leK16nPQYAErHagb8-eEg
