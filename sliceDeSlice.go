@@ -17,11 +17,11 @@ func main(){
 
 	
 
-	//fmt.Println(tabuleiro[2])
+	fmt.Println(tabuleiro[2])
 
 	for i:=0; i< len(tabuleiro); i++{ //Percorrer cada linha com quebra de linha.
 		//fmt.Println(tabuleiro[i])//Ou usar a função "join".
-		fmt.Print(" \n", strings.Join(tabuleiro[i]," "))
+		fmt.Printf("%s\n", strings.Join(tabuleiro[i]," "))
 	}
 	
 }
