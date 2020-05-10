@@ -9,7 +9,6 @@ func main(){
 	//Aramzenar uma função em uma variável.
 
 	funcaoSomar := func(a , b float64 ) float64{
-
 		return a + b
 	}
 
